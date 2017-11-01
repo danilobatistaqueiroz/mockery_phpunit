@@ -1,0 +1,6 @@
+{
+    "require-dev": {
+        "mockery/mockery": "dev-master",
+		"phpunit/phpunit": "6.4"
+    }
+}
